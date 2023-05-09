@@ -1,0 +1,3 @@
+The similarities between "cat", "monkey", and "banana" are interesting because while "cat" and "monkey" are both animals, "banana" is a fruit. Despite this, the model is still able to establish semantic relationships between these words, recognizing that "cat" and "monkey" are more similar to each other than either is to "banana".
+
+Example: Let's consider three new words - "car", "bicycle", and "Highway". We can expect the model to find that "car" and "bicycle" are more similar to each other as both are vehicles, while "Highway" is a related concept but not a vehicle itself.
